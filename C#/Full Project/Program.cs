@@ -10,7 +10,7 @@ namespace HighscoreSys
     {
         static void Main(string[] args)
         {
-            Handle h = new Handle("http://localhost");
+            Handle h = new Handle("http://localhost/index.php");
             h.AddValue(1500);
             h.UpdateValues();
             h.ToConsole();
