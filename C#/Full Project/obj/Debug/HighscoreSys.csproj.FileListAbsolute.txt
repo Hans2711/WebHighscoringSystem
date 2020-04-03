@@ -1,0 +1,6 @@
+C:\Users\diesi\source\repos\HighscoreSys\HighscoreSys\bin\Debug\HighscoreSys.exe.config
+C:\Users\diesi\source\repos\HighscoreSys\HighscoreSys\bin\Debug\HighscoreSys.exe
+C:\Users\diesi\source\repos\HighscoreSys\HighscoreSys\bin\Debug\HighscoreSys.pdb
+C:\Users\diesi\source\repos\HighscoreSys\HighscoreSys\obj\Debug\HighscoreSys.csproj.CoreCompileInputs.cache
+C:\Users\diesi\source\repos\HighscoreSys\HighscoreSys\obj\Debug\HighscoreSys.exe
+C:\Users\diesi\source\repos\HighscoreSys\HighscoreSys\obj\Debug\HighscoreSys.pdb
